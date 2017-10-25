@@ -1,9 +1,24 @@
 .header{
   width: 100%;
   padding-top: 1em;
+  display: block;
 }
 
 #logo {
   float: left;
   width: 25%;
+}
+
+.right {
+  float: right;
+
+}
+
+.name {
+  font-family: serif;
+  margin-top: 0px;
+}
+
+hr {
+  width: 100%;
 }
