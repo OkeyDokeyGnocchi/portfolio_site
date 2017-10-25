@@ -1,1 +1,9 @@
+.header{
+  width: 100%;
+  padding-top: 1em;
+}
 
+#logo {
+  float: left;
+  width: 25%;
+}
