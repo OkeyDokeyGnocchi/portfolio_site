@@ -40,3 +40,14 @@ hr {
   border-color: #4c95d1;
   border-width: 1px;
 }
+
+.mainsec {
+  width: 100%;
+  position: relative;
+  height: 200px;
+  background-color: #4c95d1;
+}
+
+.mainsec article {
+  bottom: 0;
+}
