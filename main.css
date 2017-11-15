@@ -7,7 +7,7 @@ body {
   display: block;
 }
 
-#logo {
+.logo {
   float: left;
   width: auto;
   max-width: 50%;
@@ -21,7 +21,7 @@ body {
 }
 
 .name {
-  margin-top: 0px;
+  margin-top: 0;
 }
 
 hr {
@@ -91,9 +91,10 @@ hr {
 @media screen and (max-width:800px) {
   .work {flex-wrap: wrap; }
   .worklist:first-child {flex-basis: 100%; }
+  .right {width: 35%;}
 }
 
-#featured {
+.featured {
   text-align: center;
 
 }
