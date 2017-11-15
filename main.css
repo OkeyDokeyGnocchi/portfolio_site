@@ -88,6 +88,11 @@ hr {
   margin-right: 1px;
 }
 
+@media screen and (max-width:750px) {
+  .work {flex-wrap: wrap; }
+  .worklist:first-child {flex-basis: 100%; }
+}
+
 #featured {
   text-align: center;
 
