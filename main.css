@@ -88,7 +88,7 @@ hr {
   margin-right: 1px;
 }
 
-@media screen and (max-width:750px) {
+@media screen and (max-width:800px) {
   .work {flex-wrap: wrap; }
   .worklist:first-child {flex-basis: 100%; }
 }
